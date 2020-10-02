@@ -1,2 +1,2 @@
-# collision-algorithm
-It's to create a new command 
+# p5.play-boilerplate
+Boiler plate for p5.play
